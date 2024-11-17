@@ -3,6 +3,7 @@
 ##  1.1 wzory
 
 * wzór ogólny strukturalny (* = R)
+
 	![](1.png)
 * wzór ogólny sumaryczny
 >R-COOH
@@ -13,17 +14,22 @@
 - C<sub>3</sub>H<sub>7</sub>COOH - kwas butanowy (masłowy)
 - C<sub>4</sub>H<sub>9</sub>COOH - kwas butanowy (walerianowy)
 - kwas benzenokarboksylowy (benzoesowy)
+
 	![](2.png)
 - kwas propenowy (akrylowy)
+
 	![](3.png)
 - etanodiowy (szczawiowy)
+
 	![](4.png)
 - C<sub>15</sub>H<sub>31</sub>COOH - kwas palmitynowy
 - C<sub>17</sub>H<sub>35</sub>COOH - kwas stearynowy
 - C<sub>17</sub>H<sub>33</sub>COOH - kwas oleinowy
 - 2-hydroksypropanowy (mlekowy) - hydroksykwas
+
 	![](5.png)
 - 2-hydroksybenzenokarboksylowy (salicylowy) - hydroksykwas
+
 	![](6.png)
 ## 1.3 reakcje
 ### otrzymywanie
@@ -60,6 +66,7 @@
 # 2. Estry
 ## 2.1 wzory
 * wzór ogólny strukturalny
+
 	![](10.png)
 * wzór ogólny sumaryczny
 > R<sub>1</sub>COOR<sub>2</sub>
@@ -93,6 +100,7 @@
 
 ## 3.3 reakcje
 * estryfikacja - otrzymywanie aspiryny
+
 	![](7.png)
 
 ## 3.4 właściwości
@@ -102,9 +110,11 @@
 # 4. Amidy
 ## 4.1 wzór
 * wzór ogólny strukturalny (* = R)
+
 	![](8.png)
 ## 4.2 otrzymywanie
 * metanoamid
+
 	![](9.png)
 * mocznik
 > H<sub>2</sub>CO<sub>3</sub> + 2NH<sub>3</sub> -T-> CO(NH<sub>2</sub>)<sub>2</sub> + 2 H<sub>2</sub>O
