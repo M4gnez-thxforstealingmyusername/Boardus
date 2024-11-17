@@ -14,7 +14,7 @@
 - CH<sub>3</sub>COOH - kwas etanowy (octowy)
 - C<sub>2</sub>H<sub>5</sub>COOH - kwas propanowy (propionowy)
 - C<sub>3</sub>H<sub>7</sub>COOH - kwas butanowy (masłowy)
-- C<sub>4</sub>H<sub>9</sub>COOH - kwas butanowy (walerianowy)
+- C<sub>4</sub>H<sub>9</sub>COOH - kwas pentanowy (walerianowy)
 - kwas benzenokarboksylowy (benzoesowy)
 
 	![](2.png)
