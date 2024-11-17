@@ -1,3 +1,5 @@
+# 0. Definicje
+> R - grupa o wzorze ogólnym C<sub>n</sub>H<sub>2n+1</sub>
 # 1. Kwasy karboksylowe
 
 ##  1.1 wzory
@@ -34,33 +36,42 @@
 ## 1.3 reakcje
 ### otrzymywanie
 > Aldehyd + [O] -> kwas karboksylowy
+> 
 > CH<sub>3</sub>CHO + [O] -> CH<sub>3</sub>COOH
 
 ### spalanie
 > kwas karboksylowy + O<sub>2</sub> -> CO<sub>2</sub> + H<sub>2</sub>O
+> 
 > kwas karboksylowy + O<sub>2</sub> -> CO + H<sub>2</sub>O
+> 
 > kwas karboksylowy + O<sub>2</sub> -> C + H<sub>2</sub>O
 
 ### tworzenie soli
 * z metalami
 > 2 HCOOH + Mg -> (HCOO)<sub>2</sub>Mg* + H<sub>2</sub>^ 
+> 
 >* metanian magnezu
 
 * z tlenkami  metali
 > 6 CH<sub>3</sub>COOH + Al<sub>2</sub>O<sub>3</sub> -> 2 (CH<sub>3</sub>COO)<sub>3</sub>Al* + 3 H<sub>2</sub>O
+> 
 > * octan glinu
 
 * z wodorotlenkami
 > C<sub>17</sub>H<sub>35</sub>COOH + NaOH -T-> C<sub>17</sub>H<sub>35</sub>COONa* + H<sub>2</sub>O
+> 
 > * stearynian sodu (mydło)
 
 - dysocjacja
 > HCOOH -H<sub>2</sub>O-> HCOO<sup>-</sup> + H<sup>+</sup>
+> 
 > C<sub>17</sub>H<sub>35</sub>COOH -H<sub>2</sub>O-> X (dysocjacja nie zachodzi dla wyższych kwasów karboksylowych)
 
 * dekarboksylacja
 > dekarboksylacja polega na *wydzieleniu* CO<sub>2</sub> z cząsteczki kwasu karboksylowego 
+> 
 > CH<sub>3</sub>COOH -T-> CH<sub>4</sub> + CO<sub>2</sub>
+> 
 > HCOOH -T-> H<sub>2</sub>^ + CO<sub>2</sub>
 
 # 2. Estry
@@ -80,6 +91,7 @@
 
 ### hydroliza zasadowa
 > ester + MOH -> sól kwasu karboksylowego(M) + alkohol
+> 
 > C<sub>3</sub>H<sub>7</sub>COOC<sub>4</sub>H<sub>9</sub> + KOH -> C<sub>3</sub>H<sub>7</sub>COOK + C<sub>4</sub>H<sub>9</sub>OH
 
 ## 2.4 właściwości
@@ -92,7 +104,9 @@
 # 3. Hydroksykwasy
 ## 3.1 budowa
 > Hydroksykwasy posiadają 2 grupy funkcyjne:
+> 
 > -COOH
+> 
 > -OH 
 
 ## 3.2 przykłady
@@ -122,6 +136,9 @@
 
 ## 4.3 poliamidy
 > Amidy tworzą poliamidy
+> 
 > - nici chirurgiczne
+> 
 > - nylon
+> 
 > - części maszyn
