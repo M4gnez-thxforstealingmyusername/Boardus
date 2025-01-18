@@ -5,4 +5,4 @@
 5. Dana jest reakcja c + O2 -> CO2, oblicz ile g węgla potrzeba do wytworzenia 11,2 dm3 dwutlenku węgla (warunki normalne)
 6. Oblicz masę 13 moli kwasu solnego (HCl)
 7. Oblicz ile moli znajduję się w 132g N2O
-## [[Odpowiedzi]]
+## [Odpowiedzi](./Odpowiedzi.md)

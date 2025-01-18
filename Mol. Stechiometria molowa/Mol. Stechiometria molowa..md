@@ -60,4 +60,4 @@
 >> odp.: dla uzyskania 44,8dm<sup>3</sup> tlenku siarki IV potrzebujemy 64g siarki i 64g tlenu
 >
 
-# 4. [[Zadania]]
+# 4. [Zadania](./Zadania.md)
