@@ -27,13 +27,17 @@ Aminokwas jest związkiem dwufunkcyjnym, ma dwie grupy funkcyjne
 - dobrze rozpuszczalne w wodzie
 ### 1.3.2 chemiczne
 - w roztworze występują w postaci jonu obojnaczego / soli wewnętrznej (H z grupy karboksylowej wędruje do grupy aminowej)(COOH, NH<sub>2</sub> -> COO<sup>-</sup>, NH<sub>3</sub><sup>+</sup>)
+
 	![](jon%20obojnaczy.png)
 - aminokwasy wykazują właściwości amfoteryczne, czyli zarówno właściwości kwasowe, jak i zasadowe
+
 	![](zobojętnianie-z-Na.png)
 	![](reakcja-z-HCl.png)
 - kondensacja (peptyzacja) - łączenie się aminokwasów w długie łańcuchy poprzez połączenie się się grup karboksylowej i aminowej, powstaje wtedy wiązanie peptydowe -CONH-, (zaznaczone czerwoną ramką), wydziela się również woda
+
 	![](kondensacja.png)
 - Aminokwasy białkowe to α-aminokwasy, czyli takie w których obie grupy są połączone z tym samym węglem, tzw. węglem α
+
 	![](aminokwasy-białkowe.png)
 # 2. Białka - właściwości fizyczne i chemiczne
 Białko to łańcuch aminokwasowy, złożony z ponad 100 reszt aminokwasów, połączonych wiązaniami peptydowymi -CONH-
