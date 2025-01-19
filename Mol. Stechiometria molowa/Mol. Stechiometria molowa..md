@@ -26,7 +26,7 @@
 >> 1 mol O<sub>2</sub> waży 32g (O = 16u; 2\*16u = 32u) i ma 22,4dm<sup>3</sup>
 >> 1 mol H<sub>2</sub> waży 2g (H = 1u; 2\*1u = 2u) i ma 22,4dm<sup>3</sup>
 # 2. Masa molowa
->Jest to masa cząsteczkowa, wyrażona w gramach
+>Jest to masa mola cząsteczek wyrażona w gramach
 >> Masa molowa wody wynosi 18g, a wodoru 1g
 
 # 3. Stechiometria
