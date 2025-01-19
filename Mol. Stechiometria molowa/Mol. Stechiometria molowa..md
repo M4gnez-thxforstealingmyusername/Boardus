@@ -1,7 +1,7 @@
 # 0. Definicje
-> **Mol** - 6,02\*10<sup>23</sup> atomów / cząsteczek
+> **Mol** - 6,02\*10<sup>23</sup> atomów / cząsteczek, jest jednostką układu SI
 > 
-> **Liczba Avogadro** - 6,02\*10<sup>23</sup>
+> **Liczba Avogadro** - stała fizyczna, wynosi dokładnie 6,02\*10<sup>23</sup>
 
 # 1. Mol
 > Żeby poprawnie zrozumieć pojęcie mola, dobrze jest znać powód jego powstania:
@@ -14,6 +14,7 @@
 > 
 > Jednostka mola powstała uniknąć pisania za każdym razem **6,02 \* 10<sup>23</sup>** atomów, żeby przeliczyć unity na gramy
 > 
+> jeden gram to dokładnie mol unitów, czyli **6,02 \* 10<sup>23</sup>** unitów
 > 
 > Przykład:
 >> Co wygląda lepiej?
@@ -21,13 +22,14 @@
 >> Czy może 
 >> 2 mole H + 1 mol O -> 1 mol H<sub>2</sub>O
 >
->Mol ma też taką właściwość, że jeden mol gazu w warunkach normalnych (czyli na podstawie zawsze) ma 22,4dm<sup>3</sup> objętości
+>Mol ma też taką właściwość, że jeden mol gazu w warunkach normalnych (T pokojowa i ciśnienie atmosferyczne, ala poziomie podstawowym zawsze w takich zadaniach są warunki normalne) ma 22,4dm<sup>3</sup> objętości
 >
 >> 1 mol O<sub>2</sub> waży 32g (O = 16u; 2\*16u = 32u) i ma 22,4dm<sup>3</sup>
 >> 1 mol H<sub>2</sub> waży 2g (H = 1u; 2\*1u = 2u) i ma 22,4dm<sup>3</sup>
 # 2. Masa molowa
->Jest to masa mola cząsteczek wyrażona w gramach
+>Masa molowa wyrażana w g/mol odpowiada masie jednego mola cząsteczek danej substancji.
 >> Masa molowa wody wynosi 18g, a wodoru 1g
+>
 
 # 3. Stechiometria
 > Można to wykorzystać w obliczeniach:
@@ -41,7 +43,9 @@
 >> 
 >> wzór na CO<sub>2</sub> to
 >>> C + O<sub>2</sub> -> CO<sub>2</sub>
->> teraz podstawiamy wszędzie 2 mole, jako ilość (przed wzorami)
+>> wzoru potrzebujemy, dla odczytania współczynników stechiometrycznych (bezpośrednio przed żadnym z atomów ani cząstek nie ma liczby, czyli domyślnie jest 1 )
+>>> 1 C + 1 O<sub>2</sub> -> 1 CO<sub>2</sub>
+>> teraz, jako, że mamy 2 mole CO<sub>2</sub>, podstawiamy wszędzie 2 mole, jako ilość
 >> 
 >> 2 mol C + 2 mol O<sub>2</sub> -> 2 mol CO<sub>2</sub>
 >>
