@@ -4,10 +4,13 @@ Aminokwas jest związkiem dwufunkcyjnym, ma dwie grupy funkcyjne
 - COOH - grupa karboksylowa (**-kwas**)
 ## 1.1 przykłady
 - Kwas 2-aminoetanowy *glicyna*
+
 	![](glicyna.png)
 - kwas 2-aminopropanowy *alanina*
+
 	![](alanina.png)
 - kwas 2-amino-4-metylopentanowy *leucyna*
+
 	![](leucyna.png)
 ## 1.2 podział
 ### 1.2.1 ze względu na ilość grup
@@ -54,7 +57,7 @@ Wydzielamy cztery rzędy struktury białek:
 ## 3.1 struktura pierwszorzędowa 
 określa jedynie sekwencję aminokwasów w łańcuchach
 ## 3.2 struktura drugorzędowa
-określa lokalne ułożenie łańcucha polipeptydowego (wzajemne relacje najbliższych sobie aminokwasów), może mieć postać α-helisy lub β-harmonijki, stabilizują ją wiązania wodorowe ==patrz str. 52==
+określa lokalne ułożenie łańcucha polipeptydowego (wzajemne relacje najbliższych sobie aminokwasów), może mieć postać α-helisy lub β-harmonijki, stabilizują ją wiązania wodorowe **patrz str. 52**
 ## 3.3 struktura trzeciorzędowa
 określa jak wygląda w przestrzeni łańcuch zwiniętego łańcucha polipeptydowego, ta struktura decyduje o aktywności biochemicznej białka, stabilizują ją
 - wiązania wodorowe
